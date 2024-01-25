@@ -15,7 +15,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #dada09;
+    background-color: #2f09da;
     z-index: 1;
     clip-path: circle(15vw at var(--x) var(--y));
 }
@@ -38,7 +38,7 @@ body{
     position: relative;
     color: transparent;
     pointer-events: none;
-    -webkit-text-stroke: 4px #a9da09;
+    -webkit-text-stroke: 4px #5909da;
     font-size:25vw;
     font-weight: bold;
 }
